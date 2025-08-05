@@ -1,14 +1,12 @@
 # E-Commerce Shipping Analysis – SQL
-
 This project explores a Kaggle dataset related to e-commerce shipping and product returns. My main goal was to improve my SQL skills through hands-on querying and to start building confidence in working with real-world datasets.
 
-➡️ [Check out my SQL queries live on DataCamp Datalab](https://www.datacamp.com/datalab/w/319e30c6-4dae-4174-b9b6-6e61cd6cb2a1/edit)  
-➡️ [Dataset on Kaggle](https://www.kaggle.com/datasets/prachi13/customer-analytics)  
-➡️ [My DataCamp Portfolio (SQL, Python, more)](https://www.datacamp.com/portfolio/sanyaggarwal)
+[Check out my SQL queries live on DataCamp Datalab](https://www.datacamp.com/datalab/w/319e30c6-4dae-4174-b9b6-6e61cd6cb2a1/edit)  
+[Dataset on Kaggle](https://www.kaggle.com/datasets/prachi13/customer-analytics)  
+[My DataCamp Portfolio (SQL, Python, more)](https://www.datacamp.com/portfolio/sanyaggarwal)
 
 
 ## Objective
-
 - Analyze a structured dataset from Kaggle using PostgreSQL.
 - Strengthen foundational SQL skills through practical question-building.
 - Understand real-world logistics patterns like shipping modes, return behavior, and discount effectiveness.
@@ -18,7 +16,6 @@ This project explores a Kaggle dataset related to e-commerce shipping and produc
 
 
 ## Tools Used
-
 - **SQL Engine**: PostgreSQL (hosted on DataCamp Datalab)
 - **Dataset**: [Kaggle – E-Commerce Shipping Data](https://www.kaggle.com/datasets/prachi13/customer-analytics)
 - **Visualization**: Power BI (coming soon)
@@ -26,7 +23,6 @@ This project explores a Kaggle dataset related to e-commerce shipping and produc
 
 
 ## Key Questions Answered
-
 1. Total orders overall
 2. Most-used shipment modes
 3. Avg. discount by shipment mode
@@ -46,7 +42,6 @@ This project explores a Kaggle dataset related to e-commerce shipping and produc
 
 
 ## Key Learnings
-
 - Confidence in building SQL queries from scratch.
 - Translating business-style problems into SQL logic.
 - Reminder: **just start** — clean data is great, but trying to find insights from it was 🔥 for my thinking.
@@ -55,14 +50,12 @@ This project explores a Kaggle dataset related to e-commerce shipping and produc
 
 
 ## Challenges
-
 - PostgreSQL local setup (VS Code, Jupyter...) was a mess — switched to Datalab.
 - Writing business-oriented questions was overwhelming at first, but chunking helped.
 - Haven’t figured out Power BI + SQL integration yet (goals for future me).
 
 
 ## Next Steps
-
 - Finish and upload Power BI dashboard version.
 - Replicate with Python (Pandas + Seaborn).
 - Try SQL in local setup once I'm comfy.
@@ -70,7 +63,6 @@ This project explores a Kaggle dataset related to e-commerce shipping and produc
 
 
 ## About Me
-
 This is one of my first independent data projects and I'm proud of it! If you're on the same learning journey, feel free to connect:
 - [LinkedIn](https://www.linkedin.com/in/sanyaggarwal)
 - sanyaaggarwal000@gmail.com
